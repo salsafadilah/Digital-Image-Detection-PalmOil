@@ -1,5 +1,3 @@
-# Digital-Image-Detection-PalmOil
-Proyek deteksi kesehatan pohon kelapa sawit menggunakan algoritma YOLOv8
 # 🌴 Deteksi Kesehatan Pohon Kelapa Sawit menggunakan YOLO26s
 
 ![YOLO26](https://img.shields.io/badge/Model-YOLO26s-blue)
