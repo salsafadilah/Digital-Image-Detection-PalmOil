@@ -27,7 +27,6 @@ Setelah dilakukan pelatihan selama **50 Epoch**, model menunjukkan hasil evaluas
 | **Inference Speed** | **5.7ms per image** |
 
 ### Visualisasi Performa
-*(Tips: Unggah file results.png dan F1_curve.png kamu ke GitHub, lalu pastikan link di bawah ini sesuai)*
 - **Training Results:** Menunjukkan penurunan *loss* yang stabil dan kenaikan akurasi yang konsisten.
 - **Confusion Matrix:** Menunjukkan kemampuan model dalam membedakan kelas objek secara detail.
 
