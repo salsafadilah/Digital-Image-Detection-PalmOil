@@ -44,7 +44,7 @@ Setelah dilakukan pelatihan selama **50 Epoch**, model menunjukkan hasil evaluas
 
 ## 📖 Artikel Medium
 Untuk penjelasan lebih mendalam mengenai teori, proses *preprocessing*, dan analisis mendalam dari proyek ini, silakan baca artikel saya di Medium:
-👉 [**[(https://medium.com/@salsabilagustip/implementasi-yolo26-dalam-deteksi-citra-digital-untuk-otomatisasi-monitoring-kesehatan-kelapa-sawit-22ddf01e7169)**]
+👉 **(https://medium.com/@salsabilagustip/implementasi-yolo26-dalam-deteksi-citra-digital-untuk-otomatisasi-monitoring-kesehatan-kelapa-sawit-22ddf01e7169)**
 
 ---
 **Kontak & Kontribusi**
