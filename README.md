@@ -5,7 +5,7 @@
 ![Ultralytics](https://img.shields.io/badge/Library-Ultralytics-orange)
 
 ## 📌 Deskripsi Proyek
-Proyek ini bertujuan untuk mengotomatisasi pemantauan kesehatan pohon kelapa sawit melalui citra udara menggunakan algoritma **Computer Vision**. Dengan memanfaatkan arsitektur **YOLO26s** (rilis terbaru Ultralytics 2026), model ini mampu mengklasifikasikan kondisi pohon ke dalam dua kategori: **Healthy** (Sehat) dan **Unhealthy** (Sakit).
+Proyek ini bertujuan untuk mengotomatisasi pemantauan kesehatan pohon kelapa sawit melalui citra udara menggunakan algoritma **Computer Vision**. Dengan memanfaatkan arsitektur **YOLO26** (rilis terbaru Ultralytics 2026), model ini mampu mengklasifikasikan kondisi pohon ke dalam dua kategori: **Healthy** (Sehat) dan **Unhealthy** (Sakit).
 
 Sistem ini dirancang untuk membantu efisiensi operasional di perkebunan sawit skala luas, memungkinkan deteksi dini terhadap pohon yang mengalami anomali nutrisi atau serangan hama.
 
